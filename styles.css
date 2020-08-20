@@ -1,0 +1,58 @@
+body {
+    background: #A0A0A0;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width:50em
+}
+
+input[type=text], input[type=email], input[type=number], select {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+textarea {
+    width: 100%;
+    border: 2px solid #ccc;
+    border-radius: 4px
+body {
+    background: #A0A0A0;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width:50em
+}
+
+input[type=text], input[type=email], input[type=number], select {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px 10px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+textarea {
+    width: 100%;
+    border: 2px solid #ccc;
+    border-radius: 4p;
+}
+
+submit 
+{
+    text-align: center;
+}
